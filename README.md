@@ -15,3 +15,8 @@ Eventually, I discovered Bug Bounty Programs, which opened up an opportunity to 
 My dream is simple, but not easy: to become an Offensive Vulnerability Researcher. I'm drawn to the offensive field because I find it incredibly cool and highly relevant for the future.
 
 My name comes from an idea: **Crux** represents the core, or critical point, of a problem, while **Thorn** symbolises sharpness and the ability to pierce defences. So **Cruxthorn** stands for sharpness in finding, and breaking through, the weakest point of a system.
+
+## Focus Areas
+
+- Reverse Engineering
+- Exploit Development
